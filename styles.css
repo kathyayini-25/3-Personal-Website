@@ -64,6 +64,7 @@ hr{
 .bio{
   margin:auto;
   line-height: 2;
+  position: center;
 }
 .bottom-cloud{
   position: absolute;
