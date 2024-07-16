@@ -1,2 +1,2 @@
-# Personal-Website
-A personal website developed using HTML and CSS
+# Portfolio-Website
+A personal portfolio website developed using HTML and CSS
