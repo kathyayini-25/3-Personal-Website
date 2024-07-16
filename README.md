@@ -1,2 +1,2 @@
 # Personal-Website
-A personal websit made using HTML and CSS
+A personal website developing using HTML and CSS
